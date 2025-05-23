@@ -1,2 +1,13 @@
 # ai-voice-assistant
-A simple AI voice assistant built in Python using speech recognition and web automation
+This is a basic AI Voice Assistant built using Python. It can:
+
+Recognize your voice
+Convert it to text
+Open websites based on commands
+
+### Technologies used
+
+Python
+SpeechRecognition
+pyttsx3
+webbrowser
